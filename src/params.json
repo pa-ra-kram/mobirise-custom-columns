@@ -1,9 +1,9 @@
 {
-   "name" : "Custom HTML v0.3",
-   "alias" : "witsec-custom-html",
-   "version" : 0.3,
+   "name" : "Custom Blocks v1.0",
+   "alias" : "mobirise-custom-columns",
+   "version" : 1.0,
    "minAppVersion" : "4",
-   "components" : [ "witsec-custom-html-block" ],
-   "description" : "Add an entirely empty block to your website where you can place your custom HTML. <a href='https://witsec.nl'>Learn more...</a>",
+   "components" : [ "mobirise-custom-columns-block" ],
+   "description" : "Adds custom columns in Mobirise",
    "logo" : "thumbnail.png"
 }
